@@ -1,6 +1,7 @@
 ### Index
 
 * [C](#c)
+* [Competitive Programming](#competitive-programming)
 * [JavaScript](#JavaScript)
 * [Machine Learning](#machine-learning)
 * [Misc](#misc)
@@ -10,6 +11,11 @@
 ### C
 
 * [Computer Programming](http://cpbook.subeen.com/p/blog-page.html) - Tamim Shahriar Subeen 
+
+
+### Competitive Programming
+
+* [Dynamic Programming Book](https://dp-bn.github.io) - Tasmeem Reza and Mamnoon Siam 
 
 
 ### JavaScript
@@ -32,6 +38,7 @@
 ### Python
 
 * [পাইথন প্রোগ্রামিং বই](http://pybook.subeen.com) - Tamim Shahriar Subeen
+* [বাংলায় পাইথন](https://python.howtocode.dev) - Nuhil Mehdy
 * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me) - Maksudur Rahman Maateen
 
 
